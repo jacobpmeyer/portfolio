@@ -2640,3 +2640,8 @@ input, select, textarea {
 		font-size: 6rem;
 		padding: 2rem;
 	}
+
+	.spread {
+		display: flex;
+		justify-content: space-evenly;
+	}
