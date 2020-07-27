@@ -2763,7 +2763,7 @@ button:active,
   }
 
   .spread {
-    display: inherit;
+    display: block;
   }
 
   .big {
