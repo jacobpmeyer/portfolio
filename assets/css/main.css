@@ -2705,6 +2705,16 @@ button:active,
   }
 }
 
+.big {
+  font-size: 6rem;
+}
+
+.spread {
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% 20%;
+  grid-template-rows: 35% 35% 35% 35% 35%;
+}
+
 /* Mobile */
 
 @media screen and (max-width: 736px) {
@@ -2769,14 +2779,4 @@ button:active,
   .big {
     font-size: 4rem;
   }
-}
-
-.big {
-  font-size: 6rem;
-}
-
-.spread {
-  display: grid;
-  grid-template-columns: 20% 20% 20% 20% 20%;
-  grid-template-rows: 35% 35% 35% 35% 35%;
 }
