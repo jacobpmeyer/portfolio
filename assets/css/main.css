@@ -2761,6 +2761,14 @@ button:active,
   #footer .copyright li:first-child {
     margin-top: 0;
   }
+
+  .spread {
+    display: inherit;
+  }
+
+  .big {
+    font-size: inherit;
+  }
 }
 
 .big {
